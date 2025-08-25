@@ -1,0 +1,86 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/ekate/.m2/repository/org/apache/poi/poi/5.2.0/poi-5.2.0.jar;C:/Users/ekate/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;C:/Users/ekate/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar;C:/Users/ekate/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar;C:/Users/ekate/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;C:/Users/ekate/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar;C:/Users/ekate/.m2/repository/org/apache/poi/poi-ooxml/5.2.0/poi-ooxml-5.2.0.jar;C:/Users/ekate/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.0/poi-ooxml-lite-5.2.0.jar;C:/Users/ekate/.m2/repository/org/apache/xmlbeans/xmlbeans/5.0.3/xmlbeans-5.0.3.jar;C:/Users/ekate/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;C:/Users/ekate/.m2/repository/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar;C:/Users/ekate/.m2/repository/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar;C:/Users/ekate/.m2/repository/org/apache/logging/log4j/log4j-api/2.24.3/log4j-api-2.24.3.jar;C:/Users/ekate/.m2/repository/org/apache/logging/log4j/log4j-core/2.24.3/log4j-core-2.24.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java;C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/target/generated-sources/annotations'
+-Xdoclint:none
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mavenlaba5 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'mavenlaba5 1.0-SNAPSHOT API'
+additions
+characters
+com.mycompany.mavenlaba5
+fabrics
+foundation
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/additions/ChangeTexts.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/additions/Items.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/additions/Result.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/characters/Baraka.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/characters/Human.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/characters/LiuKang.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/characters/Player.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/characters/ShaoKahn.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/characters/SonyaBlade.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/characters/SubZero.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/com/mycompany/mavenlaba5/Main.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/fabrics/BarakaFabric.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/fabrics/EnemyFabric.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/fabrics/EnemyFabricInterface.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/fabrics/LiuKangFabric.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/fabrics/ShaoKahnFabric.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/fabrics/SonyaBladeFabric.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/fabrics/SubZeroFabric.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/foundation/CharacterAction.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/foundation/Fight.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/foundation/Game.java'
+'C:/Users/ekate/OneDrive/Документы/NetBeansProjects/mavenlaba5/mavenlaba5/src/main/java/foundation/JFrames.java'
+C:\Users\ekate\.m2\repository\org\apache\poi\poi\5.2.0\poi-5.2.0.jar = 1753267414159
+C:\Users\ekate\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar = 1753267415041
+C:\Users\ekate\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar = 1753267414325
+C:\Users\ekate\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar = 1753267415681
+C:\Users\ekate\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar = 1729093660247
+C:\Users\ekate\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar = 1753267414546
+C:\Users\ekate\.m2\repository\org\apache\poi\poi-ooxml\5.2.0\poi-ooxml-5.2.0.jar = 1753267414684
+C:\Users\ekate\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.0\poi-ooxml-lite-5.2.0.jar = 1753267417180
+C:\Users\ekate\.m2\repository\org\apache\xmlbeans\xmlbeans\5.0.3\xmlbeans-5.0.3.jar = 1753267415187
+C:\Users\ekate\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar = 1753267416195
+C:\Users\ekate\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar = 1753267416685
+C:\Users\ekate\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar = 1756134882510
+C:\Users\ekate\.m2\repository\org\apache\logging\log4j\log4j-api\2.24.3\log4j-api-2.24.3.jar = 1756134675989
+C:\Users\ekate\.m2\repository\org\apache\logging\log4j\log4j-core\2.24.3\log4j-core-2.24.3.jar = 1756134885010
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\src\main\java = 1756140439857
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\generated-sources\annotations = 1756140584750
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\allclasses-index.html = 1756140592095
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\allpackages-index.html = 1756140592100
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\element-list = 1756140591594
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\help-doc.html = 1756140592173
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\index-all.html = 1756140592157
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\index.html = 1756140592063
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\member-search-index.js = 1756140592118
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\module-search-index.js = 1756140592103
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\overview-summary.html = 1756140592166
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\overview-tree.html = 1756140592050
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\package-search-index.js = 1756140592114
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\search.html = 1756140592161
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\serialized-form.html = 1756140591722
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\tag-search-index.js = 1756140592121
+C:\Users\ekate\OneDrive\Документы\NetBeansProjects\mavenlaba5\mavenlaba5\target\apidocs\type-search-index.js = 1756140592116

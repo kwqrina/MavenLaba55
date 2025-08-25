@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"additions"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"characters"},{"l":"com.mycompany.mavenlaba5"},{"l":"fabrics"},{"l":"foundation"}];updateSearchResults();
